@@ -11,7 +11,7 @@
       Watan.ai - The Ai powered pocket Accountant
     </title>
     <meta
-      content="Watan.ai helps financial services compose verification processes for any vertical and geography using modular building blocks, components, and 3rd party integrations."
+      content="Watan.ai Watan.AI - Become Transactable, a transaction at a time"
       name="description"
     />
     <meta
@@ -19,7 +19,7 @@
       property="og:title"
     />
     <meta
-      content="Watan.ai helps financial services compose verification processes for any vertical and geography using modular building blocks, components, and 3rd party integrations."
+      content="Watan.ai Watan.AI - Become Transactable, a transaction at a time"
       property="og:description"
     />
     <meta
@@ -31,7 +31,7 @@
       property="twitter:title"
     />
     <meta
-      content="Watan.ai helps financial services compose verification processes for any vertical and geography using modular building blocks, components, and 3rd party integrations."
+      content="Watan.ai Watan.AI - Become Transactable, a transaction at a time"
       property="twitter:description"
     />
     <meta
