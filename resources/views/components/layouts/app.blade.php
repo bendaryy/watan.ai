@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!-- Last Published: Mon Sep 11 2023 15:33:14 GMT+0000 (Coordinated Universal Time) -->
 <html
   data-wf-domain="www.Watan.ai"
   data-wf-page="63f40bbe596f1aa566f8051a"

@@ -1558,7 +1558,7 @@
                                 </nav>
                             </div>
                             <a href="#" class="link-ft">Career</a><a href="#" class="link-ft">Become
-                                a Partner</a><a href="https://github.com/ballerine-io/ballerine" target="_blank"
+                                a Partner</a><a href="#" target="_blank"
                                 class="button-primary-2 w-button">View GitHub</a>
                         </div>
                     </div>
