@@ -453,7 +453,7 @@
                 </nav>
               </div>
               <a
-                href="https://www.linkedin.com/company/ballerine-inc/jobs/"
+                href="#"
                 target="_blank"
                 class="link-nav w-nav-link"
                 >Career</a
