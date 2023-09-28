@@ -189,7 +189,7 @@
                     </nav>
                     <div class="button-wrapper-navbar">
                         <a href="#email-form" class="button-primary-new w-button">Talk to us</a><a
-                            href="https://github.com/ballerine-io/ballerine" target="_blank"
+                            href="#" target="_blank"
                             class="button-secondary-new w-button">View GitHub</a>
                     </div>
                 </div>
@@ -282,7 +282,7 @@
                             </div>
                             <div class="button-wrapper-one">
                                 <a href="#Company-Email" class="button-primary-new w-button">Talk to us</a><a
-                                    href="https://github.com/ballerine-io/ballerine" target="_blank"
+                                    href="#" target="_blank"
                                     class="button-secondary-new w-button">View GitHub</a>
                             </div>
                         </div>
@@ -305,7 +305,7 @@
                             <div class="w-col w-col-5">
                                 <div class="html-embed-2 w-embed">
                                     <!-- Place this tag where you want the button to render. -->
-                                    <a class="github-button" href="https://github.com/ballerine-io/ballerine"
+                                    <a class="github-button" href="#"
                                         data-color-scheme="no-preference: dark_dimmed; light: light_high_contrast; dark: dark_high_contrast;"
                                         data-size="large" data-show-count="true"
                                         aria-label="Star Watan.ai-io/Watan.ai on GitHub">Star</a>
