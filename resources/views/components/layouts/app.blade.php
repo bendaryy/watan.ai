@@ -558,7 +558,7 @@
                 <div class="heading-text-kyc">
                   <div class="heading-wrapper-kyc">
                     <h1 class="heading-56-2 text-gradient">
-                     Watan.Ai<br />
+                     watan.ai<br />
                     </h1>
                     <div
                       data-w-id="46852e4e-a921-9ec0-31ea-ba6a90811213"
