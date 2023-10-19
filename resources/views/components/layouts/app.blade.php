@@ -74,11 +74,11 @@
             (n.className += t + "touch");
       })(window, document);
     </script>
-    <link
+    {{-- <link
       href="{{ asset('frontend/uploads-ssl.webflow.com/62a3bad46800eb4715b2faf1/640066ba1d854aa392f26462_fav.png') }}"
       rel="shortcut icon"
       type="image/x-icon"
-    />
+    /> --}}
     <link
       href="{{ asset('frontend/uploads-ssl.webflow.com/62a3bad46800eb4715b2faf1/640066f74ae3950adcc5aefa_webclip.png') }}"
       rel="apple-touch-icon"
@@ -143,12 +143,13 @@
       <div class="container-nav1">
         <div class="nav-wrapper">
           <a href="#" class="link-logo w-nav-brand"
-            ><img
+            >
+            {{-- <img
               src="https://uploads-ssl.webflow.com/62a3bad46800eb4715b2faf1/64675202b61f8fe8e7828d61_Frame.svg"
               loading="lazy"
               alt=""
               class="image-logo"
-            />
+            /> --}}
             <div class="text-block-4">Watan.ai</div></a
           >
           <div class="sub-nav-menu">
@@ -452,16 +453,16 @@
                   </div>
                 </nav>
               </div>
-              <a
+              {{-- <a
                 href="#"
                 target="_blank"
                 class="link-nav w-nav-link"
                 >Career</a
               ><a href="#" class="link-nav become-a-partner w-nav-link"
                 >Become a Partner</a
-              >
+              > --}}
             </nav>
-            <div class="button-wrapper-navbar">
+            {{-- <div class="button-wrapper-navbar">
               <a href="#email-form" class="button-primary-new w-button"
                 >Talk to us</a
               ><a
@@ -470,7 +471,7 @@
                 class="button-secondary-new w-button"
                 >View GitHub</a
               >
-            </div>
+            </div> --}}
           </div>
           <div class="menu-button-2 w-nav-button">
             <div class="w-icon-nav-menu"></div>
@@ -487,7 +488,7 @@
       role="banner"
       class="navbar w-nav"
     >
-      <div class="container-nav">
+      {{-- <div class="container-nav">
         <a href="#" class="link-logo w-nav-brand"
           ><img
             src="https://uploads-ssl.webflow.com/62a3bad46800eb4715b2faf1/64675202b61f8fe8e7828d61_Frame.svg"
@@ -522,7 +523,7 @@
         <div class="menu-button w-nav-button">
           <div class="w-icon-nav-menu"></div>
         </div>
-      </div>
+      </div> --}}
     </div>
     <div class="main-wrapper-2">
       <div class="page-wrapper">
@@ -546,24 +547,24 @@
           </div>
           <div class="container-1440 w-container">
             <div class="kyc-wrapper">
-              <div class="top-div">
+              {{-- <div class="top-div">
                 <div class="text-16-19">The</div>
                 <div class="text-wrapper">
                   <div class="text-16-19">Open Source</div>
                 </div>
                 <div class="text-16-19">Risk Decisioning Platform</div>
-              </div>
+              </div> --}}
               <div class="left_side-kyc">
                 <div class="heading-text-kyc">
                   <div class="heading-wrapper-kyc">
                     <h1 class="heading-56-2 text-gradient">
-                      Onboard, Verify, Underwrite<br />and Monitor your
+                     Watan.Ai<br />
                     </h1>
                     <div
                       data-w-id="46852e4e-a921-9ec0-31ea-ba6a90811213"
                       class="height-74-slider"
                     >
-                      <div class="slider-text">
+                      {{-- <div class="slider-text">
                         <h1 class="heading-56-2 text-color-gray">SMBs</h1>
                         <h1 class="heading-56-2 text-color-gray">Sellers</h1>
                         <h1
@@ -576,28 +577,28 @@
                           Freelancers
                         </h1>
                         <h1 class="heading-56-2 text-color-gray">SMBs</h1>
-                      </div>
+                      </div> --}}
                     </div>
                   </div>
                 </div>
               </div>
               <div class="bottom-first-section">
                 <div class="text-16-19">
-                  No more building in house to avoid vendor lock-in, or jumping
-                  between many point solutions, build it all on Watan.ai.
+                  {{-- No more building in house to avoid vendor lock-in, or jumping
+                  between many point solutions, build it all on Watan.ai. --}}
                 </div>
                 <div class="button-wrapper-one">
                   <a href="#Company-Email" class="button-primary-new w-button"
-                    >Talk to us</a
-                  ><a
+                    >Noor</a>
+                  {{-- <a
                     href="#"
                     target="_blank"
                     class="button-secondary-new w-button"
                     >View GitHub</a
-                  >
+                  > --}}
                 </div>
               </div>
-              <div class="star-us">
+              {{-- <div class="star-us">
                 <div class="star">
                   <div class="text-18-22">Star us on GitHub</div>
                   <img
@@ -608,14 +609,14 @@
                   />
                 </div>
                 <div class="under-shodow"></div>
-              </div>
+              </div> --}}
             </div>
           </div>
           <div
             data-w-id="15135dc9-9542-b1fc-b4e0-0652e066b2e6"
             class="container-1441 w-container"
           >
-            <div class="div-block-6">
+            {{-- <div class="div-block-6">
               <div class="columns-4 w-row">
                 <div class="w-col w-col-7">
                   <div class="text-block-5">Star us on GitHub</div>
@@ -635,11 +636,11 @@
                   </div>
                 </div>
               </div>
-            </div>
+            </div> --}}
             <div class="div-block-7"></div>
           </div>
         </div>
-        <section class="section-3">
+        {{-- <section class="section-3">
           <div class="container-1443 w-container">
             <div class="text-align-center">
               <div class="heading-64-72 text-color-white">
@@ -652,12 +653,12 @@
               </div>
             </div>
           </div>
-        </section>
+        </section> --}}
         <div
           data-w-id="0e488be7-1ff0-0cc6-7e37-59bf7445481a"
           class="section-logo"
         >
-          <div class="logo-wrapper">
+          {{-- <div class="logo-wrapper">
             <div class="top_side-logo">
               <div class="text-size-24-2 weight-bold">
                 <strong>Backed by top investors and leaders from</strong>
@@ -809,10 +810,10 @@
               </div>
             </div>
             <div class="line-gradient"></div>
-          </div>
+          </div> --}}
           <div class="container-1440 w-container"></div>
         </div>
-        <div class="section-why-ballerine-2">
+        {{-- <div class="section-why-ballerine-2">
           <div class="container-1440 w-container">
             <div class="why-ballerine-wrapper">
               <div class="top_side-why-ballerine">
@@ -912,8 +913,8 @@
               </div>
             </div>
           </div>
-        </div>
-        <div
+        </div> --}}
+        {{-- <div
           data-w-id="211f84ac-e416-980d-8c7f-b5a4ff4804d2"
           class="section-logo"
         >
@@ -991,8 +992,8 @@
               <div class="line-gradient"></div>
             </div>
           </div>
-        </div>
-        <div class="section-sourse-2">
+        </div> --}}
+        {{-- <div class="section-sourse-2">
           <div class="container-1000 w-container">
             <div class="sourse-wrapper">
               <div class="top_side-sourse">
@@ -1055,8 +1056,8 @@
               />
             </div>
           </div>
-        </div>
-        <section class="section-tags">
+        </div> --}}
+        {{-- <section class="section-tags">
           <div class="container-1200 w-container">
             <div class="tags-wrapper">
               <h2 class="heading-64-72 text-color-black text-align-center">
@@ -1081,8 +1082,8 @@
               />
             </div>
           </div>
-        </section>
-        <section class="section-integration">
+        </section> --}}
+        {{-- <section class="section-integration">
           <div class="wrapper-integration">
             <div class="gap-108">
               <div class="top-integrations">
@@ -1265,8 +1266,8 @@
               </div>
             </div>
           </div>
-        </section>
-        <section class="section-features-new">
+        </section> --}}
+        {{-- <section class="section-features-new">
           <img
             src="https://uploads-ssl.webflow.com/62a3bad46800eb4715b2faf1/64677b0121c5a882bb8b6995_desd.svg"
             loading="lazy"
@@ -1356,8 +1357,8 @@
               </div>
             </div>
           </div>
-        </section>
-        <section class="section-back">
+        </section> --}}
+        {{-- <section class="section-back">
           <div class="container-1440 w-container">
             <div class="wrapper-back">
               <div class="bottom-back">
@@ -1449,8 +1450,8 @@
               </div>
             </div>
           </div>
-        </section>
-        <section class="section-rule">
+        </section> --}}
+        {{-- <section class="section-rule">
           <div class="container-1440 w-container">
             <div class="wrapper-rule">
               <div class="bottom-rule">
@@ -1538,8 +1539,8 @@
               </div>
             </div>
           </div>
-        </section>
-        <section class="section-phone">
+        </section> --}}
+        {{-- <section class="section-phone">
           <div class="container-1440 w-container">
             <div class="wrapper-rule">
               <div class="bottom-rule-2">
@@ -1580,8 +1581,8 @@
               </div>
             </div>
           </div>
-        </section>
-        <div class="section-features-2">
+        </section> --}}
+        {{-- <div class="section-features-2">
           <div class="container-1440 w-container">
             <div class="features-wrapper">
               <div class="top_side-features">
@@ -1653,8 +1654,8 @@
               </div>
             </div>
           </div>
-        </div>
-        <section class="section-testimonial">
+        </div> --}}
+        {{-- <section class="section-testimonial">
           <div class="container-1200 w-container">
             <div class="testimonial-wrapper">
               <div class="testimonial-cards">
@@ -1735,8 +1736,8 @@
               </div>
             </div>
           </div>
-        </section>
-        <div class="section-contact-us">
+        </section> --}}
+        {{-- <div class="section-contact-us">
           <div class="container-1000 w-container">
             <div class="contact-wrapper">
               <div class="left_side-contact">
@@ -2035,8 +2036,8 @@
               class="bottom-lattice"
             />
           </div>
-        </div>
-        <div class="footer-2">
+        </div> --}}
+        {{-- <div class="footer-2">
           <div class="w-container">
             <div class="footer-wrapper">
               <div class="left_side-footer">
@@ -2361,9 +2362,11 @@
               </div>
             </div>
           </div>
-        </div>
+        </div> --}}
       </div>
     </div>
+
+
     <!-- <script
       src="../d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.js"
       type="text/javascript"
