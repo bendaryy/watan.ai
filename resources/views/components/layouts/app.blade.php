@@ -150,7 +150,7 @@
               alt=""
               class="image-logo"
             /> --}}
-            <div class="text-block-4">Watan.ai</div></a
+            <div class="text-block-4">watan.ai</div></a
           >
           <div class="sub-nav-menu">
             <nav role="navigation" class="nav-menu-3 w-nav-menu">
